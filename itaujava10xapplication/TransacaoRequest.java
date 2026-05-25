@@ -8,7 +8,7 @@ import lombok.AllArgsConstructor;
 
 @Data // <-- Isso gera automaticamente o getValor(), setValor(), getDataHora(), etc.
 @NoArgsConstructor // Cria o construtor vazio necessário para o Spring
-@AllArgsConstructor // Cria o construtor com todos os atributos see4bw
+@AllArgsConstructor // Cria o construtor com todos os atributos see4b
 public class TransacaoRequest {
     
     // Adicione os atributos que o usuário vai enviar na requisição:
