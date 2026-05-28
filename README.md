@@ -3,8 +3,8 @@
 Este projeto foi desenvolvido como parte do treinamento e desafio **Java 10x**, simulando um sistema de alta performance para o Itaú. A API é responsável por receber transações financeiras, aplicar validações rigorosas de negócio em tempo real e expor um endpoint para o cálculo de estatísticas agregadas (como soma, média, valores mínimo e máximo, e quantidade) dos últimos 60 segundos.
 
 O projeto utiliza o ecossistema **Spring Boot** e é focado em boas práticas de programação, injeção de dependências e manipulação limpa de dados.
-
----es
+t
+---est
 
 ## 🚀 Tecnologias Utilizadas
 
