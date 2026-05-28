@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do treinamento e desafio **Java 10x**, 
 
 O projeto utiliza o ecossistema **Spring Boot** e é focado em boas práticas de programação, injeção de dependências e manipulação limpa de dados.
 t
----este repósitorio possui uma dependencia de arquiv
+---este repósitorio possui uma dependencia de arquivo
 
 ## 🚀 Tecnologias Utilizadas
 
